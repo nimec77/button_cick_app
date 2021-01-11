@@ -31,4 +31,5 @@ class MainActivity : AppCompatActivity() {
             userInput.text.clear()
         }
     }
+    // Закончил на 22
 }
