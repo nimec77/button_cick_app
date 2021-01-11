@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Button Cick App</string>
+    <string name="button">Button</string>
+    <string name="counter">Введите любой текст</string>
+</resources>
